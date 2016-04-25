@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : Windows Bin Tail
-// Author      : Christian Sieber <sieber@informatik.uni-wuerzburg.de>
-// Version     :
-// Copyright   : Christian Sieber
-// Description : Simple cross-platform binary tail command.
-//============================================================================
-
 #include <iostream>
 #include <fstream>
 #include <inttypes.h>
